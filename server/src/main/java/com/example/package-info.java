@@ -1,1 +1,1 @@
-package com.com.example;
+package com.example;
